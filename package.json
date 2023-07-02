@@ -1,0 +1,13 @@
+{
+  "name": "microservice-header-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": ["header", "parser"],
+  "author": "hy",
+  "license": "ISC"
+}
